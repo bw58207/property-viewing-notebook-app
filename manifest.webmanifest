@@ -1,0 +1,19 @@
+{
+  "name": "Property Viewing Notebook",
+  "short_name": "Viewings",
+  "description": "Capture properties at a viewing, compare a shortlist and share a WhatsApp summary.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f5",
+  "theme_color": "#0b3d2e",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
